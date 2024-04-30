@@ -25,7 +25,8 @@ Welcome to Flow Pilates Studio's GitHub repository! Here you'll find information
 - [Reformer Pilates](classes/intermediate.md): Build upon foundational skills with more challenging exercises to enhance strength, flexibility, and coordination.
 - [Reformer plus Pilates](classes/advanced.md): For experienced practitioners looking to refine technique and take their practice to the next level.
   
-![image](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/446931ba-1419-4a05-8415-f0fef27a234b)
+
+![image](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/77239413-c1b2-4032-9f3e-43624928d375)
 
 
 ### Class Schedule
