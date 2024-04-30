@@ -40,8 +40,8 @@ Check out our [monthly class schedule](schedules/monthly.pdf) for upcoming class
 
 Meet our team of experienced and certified Pilates instructors who are dedicated to helping you achieve your fitness goals:
 - [Dr. Kimberly Sykes](instructors/jane_doe.md): Founder and lead instructor at Flow Pilates Studio.
-- [Dr. Caityn Mayfield](instructors/jane_doe.md): Founder and lead instructor at Flow Pilates Studio.
-- [Dr. Julia Kim](instructors/jane_doe.md): Founder and lead instructor at Flow Pilates Studio.
+- [Dr. Caityn Mayfield](instructors/jane_doe.md): Reformer instructor at Flow Pilates Studio.
+- [Dr. Julia Kim](instructors/jane_doe.md): Instructor at Flow Pilates Studio.
 
 ## Testimonials
 
