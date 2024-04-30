@@ -14,9 +14,9 @@ At Flow Pilates Studio, we believe in the power of Pilates to improve both physi
 
 Welcome to Flow Pilates Studio's GitHub repository! Here you'll find information about our studio, classes, instructors, and more.
 
-![A sleek and mod 1407d375-44f1-4095-9073-022950a48399](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/39fc919b-4bc2-4da5-b218-5f6b3753f093)
-
 ![A sleek and mod 65a5aff0-6f17-479e-8cd2-01aa991f097a](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/ae3bf666-9738-4678-82a0-2cd88deb945e)
+
+![A sleek and mod 1407d375-44f1-4095-9073-022950a48399](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/39fc919b-4bc2-4da5-b218-5f6b3753f093)
 
 ## Classes
 
