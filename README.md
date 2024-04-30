@@ -9,14 +9,14 @@ Welcome to Flow Pilates Studio's GitHub repository! Here you'll find information
 ## About Us
 
 At Flow Pilates Studio, we believe in the power of Pilates to improve both physical and mental health. Our studio offers a welcoming and supportive environment for individuals of all ages and fitness levels to explore the benefits of Pilates practice.
+
 # Flow Pilates Studio
 
 Welcome to Flow Pilates Studio's GitHub repository! Here you'll find information about our studio, classes, instructors, and more.
 
-![MODERN PILATES  70d156e8-912c-4acb-8f1f-5253fb89b68a](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/7e56c017-b4fe-408e-a78a-b61fcdeadd69)
+![A sleek and mod 1407d375-44f1-4095-9073-022950a48399](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/39fc919b-4bc2-4da5-b218-5f6b3753f093)
 
-
-![image](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/c03a338c-77dc-454b-9b6c-c2113cd67d9c)
+![A sleek and mod 65a5aff0-6f17-479e-8cd2-01aa991f097a](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/ae3bf666-9738-4678-82a0-2cd88deb945e)
 
 ## Classes
 
