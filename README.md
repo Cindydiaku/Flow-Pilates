@@ -33,14 +33,15 @@ Welcome to Flow Pilates Studio's GitHub repository! Here you'll find information
 
 Check out our [monthly class schedule](schedules/monthly.pdf) for upcoming classes, workshops, and events. 
 
-![image](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/f5761a79-b1f4-4328-8cb0-3d96d11e5135)
+<img width="1076" alt="Screenshot 2024-04-29 at 11 38 57 PM" src="https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/cd2a48ff-92c1-42f9-9531-8ce0482d6fb9">
+
 
 ## Instructors
 
 Meet our team of experienced and certified Pilates instructors who are dedicated to helping you achieve your fitness goals:
 - [Dr. Kimberly Sykes](instructors/jane_doe.md): Founder and lead instructor at Flow Pilates Studio.
-
-![image](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/13b62bdb-dac1-4af4-b37f-71eee23d9acc)
+- [Dr. Caityn Mayfield](instructors/jane_doe.md): Founder and lead instructor at Flow Pilates Studio.
+- [Dr. Julia Kim](instructors/jane_doe.md): Founder and lead instructor at Flow Pilates Studio.
 
 ## Testimonials
 
