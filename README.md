@@ -1,5 +1,10 @@
 # Flow-Pilates
+
 Pilates Studio
+
+![A sleek and mod 9002c9eb-bd9e-4cc6-8bc6-426e5abc2036](https://github.com/Cindydiaku/Flow-Pilates/assets/166257518/298cb027-aa63-4499-8d45-30a6e055538d)
+
+
 # Flow Pilates Studio
 
 Welcome to Flow Pilates Studio's GitHub repository! Here you'll find information about our studio, classes, instructors, and more.
